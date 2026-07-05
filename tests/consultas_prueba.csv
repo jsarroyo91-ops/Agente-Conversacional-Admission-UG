@@ -1,0 +1,31 @@
+﻿id,consulta,intencion_esperada,tipo_variacion,observacion
+1,hola quisiera orientación para ingresar,saludo,variacion_linguistica,Saludo con solicitud de orientación.
+2,"buenas, necesito apoyo con la ug",saludo,consulta_corta,Saludo informal y breve.
+3,agradezco mucho todo lo explicado,despedida,variacion_linguistica,Cierre cordial con vocabulario diferente.
+4,"ya resolví mi duda, hasta luego",despedida,variacion_linguistica,Despedida mediante una frase completa.
+5,en qué página confirmo los avisos de admisión,canales_oficiales,variacion_linguistica,Pregunta por fuente institucional.
+6,cuáles son los canales ofisiales de la universidad,canales_oficiales,error_tipografico,Error intencional en oficiales.
+7,qué pasos debo completar para ingresar a la ug,etapas_admision,variacion_linguistica,Consulta sobre secuencia de ingreso.
+8,explícame las fases del ingreso universitario,etapas_admision,variacion_linguistica,Paráfrasis de etapas de admisión.
+9,debo hacer primero el registro nasional,registro_nacional,error_tipografico,Error intencional en nacional.
+10,en qué sitio realizo el registro de aspirantes,registro_nacional,variacion_linguistica,Consulta por lugar de registro.
+11,quiero postularme y elegir una carrera,inscripcion_postulacion,variacion_linguistica,Combina postulación y selección de carrera.
+12,cómo abro un usuario para realizar la postulación,inscripcion_postulacion,variacion_linguistica,Consulta sobre creación de cuenta.
+13,qué día me corresponde rendir la prueba,cronograma_evaluaciones,variacion_linguistica,Pregunta temporal sobre evaluación.
+14,a qué hora será mi examen de ingreso,cronograma_evaluaciones,variacion_linguistica,Pregunta por horario.
+15,qué contenidos evalúan en el examen de admisión,evaluacion_admision,variacion_linguistica,Consulta sobre contenido de la prueba.
+16,la prueba depende del bloque de conosimientos,evaluacion_admision,error_tipografico,Error intencional en conocimientos.
+17,cómo determinan quién recibe un cupo,asignacion_cupos,variacion_linguistica,Pregunta por criterio de asignación.
+18,no obtuve plaza aunque tuve buen puntaje,asignacion_cupos,ambigua,Consulta ambigua sobre cupo y puntaje.
+19,"ya me dieron cupo, cómo puedo confirmarlo",aceptacion_cupo,variacion_linguistica,Pregunta por confirmación posterior.
+20,qué sucede si no confirmo el cupo a tiempo,aceptacion_cupo,variacion_linguistica,Pregunta sobre no aceptar a tiempo.
+21,qué programas universitarios puedo elegir,oferta_academica,variacion_linguistica,Consulta sobre oferta académica.
+22,qué finalidad tiene el curso previo a la carrera,nivelacion_objetivo,variacion_linguistica,Pregunta por objetivo de nivelación.
+23,cómo me inscribo en el curso de nivelación desde el siug,matricula_documentos_nivelacion,variacion_linguistica,Consulta sobre matrícula y plataforma.
+24,qué promedio debo alcanzar para pasar nivelación,aprobacion_nivelacion,variacion_linguistica,Pregunta sobre aprobación.
+25,en qué aula virtual recibo las clases de nivelación,plataformas_calendario,variacion_linguistica,Pregunta por plataforma educativa.
+26,cómo está el clima en guayaquil,fallback,fuera_dominio,Consulta meteorológica fuera del alcance.
+27,quién ganó el partido de ayer,fallback,fuera_dominio,Consulta deportiva fuera del alcance.
+28,recomiéndame una película para esta noche,fallback,fuera_dominio,Consulta de entretenimiento.
+29,cuánto es veinticinco más diecisiete,fallback,fuera_dominio,Consulta matemática no relacionada.
+30,dónde puedo comprar una computadora,fallback,fuera_dominio,Consulta comercial fuera del alcance.
