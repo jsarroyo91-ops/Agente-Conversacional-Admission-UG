@@ -5,6 +5,7 @@ Proyecto académico de la asignatura **Procesamiento de Lenguaje Natural** de la
 El proyecto implementa un agente conversacional basado en técnicas clásicas de PLN para responder consultas frecuentes sobre admisión y nivelación de la Universidad de Guayaquil.
 
 ---
+🔗 **Aplicación web:** [Abrir Asistente de Admisión y Nivelación UG](https://TU-LINK.streamlit.app)
 
 ## Objetivo
 
